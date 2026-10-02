@@ -1,0 +1,15 @@
+:root { font-family: system-ui, sans-serif; background: #0f1420; color: #e8ecf3; }
+.wrap { max-width: 760px; margin: 0 auto; padding: 24px; }
+header h1 { margin: 0; } header p { color: #9aa7bd; }
+.search { display: flex; gap: 8px; margin-top: 16px; }
+.search input { flex: 1; padding: 12px; border-radius: 8px; border: 1px solid #2c3a52; background: #1a2334; color: #fff; }
+.search button, .examples button, .feedback button { padding: 10px 14px; border-radius: 8px; border: 1px solid #2c3a52; background: #24365c; color: #fff; cursor: pointer; }
+.examples { display: flex; flex-wrap: wrap; gap: 8px; margin: 12px 0; }
+.examples button { background: #1a2334; font-size: 13px; }
+.result { background: #161e30; border: 1px solid #2c3a52; border-radius: 12px; padding: 16px; margin-top: 12px; }
+.meta { display: flex; justify-content: space-between; color: #9aa7bd; font-size: 13px; }
+.answer { white-space: pre-wrap; background: #0f1626; padding: 12px; border-radius: 8px; }
+.feedback { display: flex; gap: 8px; align-items: center; margin: 8px 0; }
+.feedback .active { background: #2e7d32; } .thanks { color: #7ee787; }
+details { background: #0f1626; border-radius: 8px; padding: 8px 12px; margin: 6px 0; }
+.error { color: #ff7b72; margin-top: 12px; }

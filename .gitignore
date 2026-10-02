@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+rag-backend/faiss_index/
+rag-backend/.env
+node_modules/
+frontend/dist/
+.venv/

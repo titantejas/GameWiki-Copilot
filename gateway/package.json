@@ -1,0 +1,13 @@
+{
+  "name": "gamewiki-gateway",
+  "version": "0.1.0",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test test/*.test.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  }
+}

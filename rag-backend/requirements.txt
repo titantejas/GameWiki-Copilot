@@ -1,0 +1,14 @@
+fastapi==0.119.0
+uvicorn==0.37.0
+faiss-cpu==1.12.0
+scikit-learn==1.7.2
+numpy==2.2.6
+langchain-text-splitters==1.1.0
+pydantic==2.12.4
+python-dotenv==1.2.1
+httpx==0.28.1
+pytest==8.4.2
+# Optional (production quality, heavy): uncomment for HF embeddings + OpenAI
+# sentence-transformers==5.1.2
+# langchain-huggingface==1.1.0
+# openai==2.8.1
