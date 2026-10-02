@@ -2,11 +2,12 @@
 
 A full-stack Retrieval-Augmented Generation (RAG) assistant that answers game questions from wiki content and patch notes, with citations, feedback collection, and pluggable LLM backends.
 
-[![CI](.github/workflows/ci.yml)](.github/workflows/ci.yml)
 ![Python 3.11](https://img.shields.io/badge/python-3.11-blue)
 ![Node 20](https://img.shields.io/badge/node-20-green)
 ![Docker](https://img.shields.io/badge/docker-compose-ready-blue)
 ![License: MIT](https://img.shields.io/badge/license-MIT-lightgrey)
+
+<img width="1672" height="941" alt="GameWiki Copilot Dashboard" src="https://github.com/user-attachments/assets/a8ab3756-6892-472d-885c-bde63a14f965" />
 
 ## Why this exists
 
